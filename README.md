@@ -32,7 +32,7 @@ Acá vas a encontrar proyectos reales en distintas etapas — algunos son práct
 ### 📫 Dónde encontrarme
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/julian-cubilla-devops/)
-- 📄 [Mi CV](#)
+- 📄 [Mi CV](https://github.com/JulianCubilla/JulianCubilla/blob/main/Julian_Cubilla_Junior_DevOps_Engineer_CV.pdf)
 - 📧 juliancubilla27@gmail.com
 
 ---
